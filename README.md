@@ -2,7 +2,7 @@
 
 A simple Apps Script for Google Sheets to fetches your BGG collection. Wrote it because I wanted to sort my games based on some columns which were not available on BGG tables.
 
-## How to sue
+## How to use
 
 1. Create a new spreadsheet.
 2. Rename your sheet from "Sheet1" to "Replaceable Game Dump" (bottom of the screen).
